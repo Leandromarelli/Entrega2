@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "mate",
+        "description": "elemento unico",
+        "price": 1000,
+        "thumbnail": "sin img",
+        "code": "m1",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "title": "termo",
+        "description": "elemento doble",
+        "price": 1000,
+        "thumbnail": "sin img",
+        "code": "m2",
+        "stock": 100
+    }
+]
